@@ -1,5 +1,3 @@
-Here’s the full Markdown code for your repository:
-
 # 🏗️ Awesome Development Platforms
 
 A comprehensive list of platforms that provide free and paid hosting for developers. These platforms help you deploy static websites, dynamic applications, serverless functions, databases, and more.
